@@ -1,12 +1,12 @@
 {
-  "name": "proposal-template-app",
+  "name": "electron-template-app",
   "version": "1.0.0",
   "description": "App for creating quick proposal templates",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "author": "",
+  "author": "CHANGE_ME",
   "license": "ISC",
   "devDependencies": {
     "electron": "^32.0.2"
