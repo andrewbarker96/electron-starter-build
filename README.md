@@ -7,6 +7,6 @@ Feel free to clone this repo or download as a zip. Follow the guidelines below. 
 3. `npm start` to see live test.
 
 
-
+<hr />
 ### Documentation
 Read <a href='https://www.electronjs.org/docs/latest/tutorial/quick-start'>Electron's Quick Start Documentation</a> for further development guidelines. 
